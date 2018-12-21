@@ -15,4 +15,4 @@ Then run image in a container
 
     docker run -p 8080:3000 -d node-helloworld
 
-This will expose the server on http://localhost:8080.
+This will expose the application on http://localhost:8080.
